@@ -1,1 +1,1 @@
-# QuickTransfer-1.0
+# Skandrop-1.0
